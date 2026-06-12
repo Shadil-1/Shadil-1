@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shadil-1&theme=tokyonight&row=1&column=6" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Shadil K</h1>
 
 <h3 align="center">
