@@ -1,7 +1,7 @@
+
 <p align="center">
   <img src="Shadil Banner.png" />
 </p>
-
 
 
 <h1 align="center">Hi 👋, I'm Shadil K</h1>
