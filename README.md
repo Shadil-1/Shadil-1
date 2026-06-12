@@ -61,28 +61,24 @@ Research Enthusiast • Problem Solver • Data Analytics & AI Explorer
 
 ---
 
-## 🔬 Research • Analyze • Build
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadil-1&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadil-1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-025E8C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shadil-1&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=shadil-1&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadil-1&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🎯 Current Focus
 
