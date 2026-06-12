@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Shadil Banner" />
+  <img src="https://raw.githubusercontent.com/shadil-1/shadil-1/main/banner.png" alt="Shadil Banner" />
 </p>
 
 
