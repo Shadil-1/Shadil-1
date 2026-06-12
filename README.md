@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadil-1&theme=tokyonight&row=1&column=6" />
+  <img src="./banner.png" alt="Shadil Banner" />
 </p>
 
 
